@@ -1,3 +1,17 @@
+# REAL-TIME-COLLABORATIVE-DOCUMENT-EDITOR
+
+company : K DEVA AKSHAY
+
+"Intern ID": CT04WD113
+
+"Domain": Full Stack
+
+"Duration" : 4 Weeks
+
+"mentor": Neela Santhosh
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
