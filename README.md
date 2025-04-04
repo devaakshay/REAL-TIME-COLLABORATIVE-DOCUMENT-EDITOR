@@ -12,7 +12,7 @@ company : K DEVA AKSHAY
 
 # output
 
-![Image](https://github.com/user-attachments/assets/fd703692-f44f-4ef2-bff3-f472b3e18e42)
+![Image](https://github.com/user-attachments/assets/2e6476f4-2ffc-4edb-92b2-95fc67af5189)
 
 
 
