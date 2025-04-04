@@ -10,6 +10,10 @@ company : K DEVA AKSHAY
 
 "mentor": Neela Santhosh
 
+# output
+
+![Image](https://github.com/user-attachments/assets/fd703692-f44f-4ef2-bff3-f472b3e18e42)
+
 
 
 # React + Vite
